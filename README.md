@@ -6,3 +6,5 @@
     Syntax: json-edit create [fileName.json] => creates a json file containing {} 
             json-edit read [fileName.json] => show the contents of [fileName.json]
             json-edit write [fileName.json] [propertyName] [propertyValue] => creates a new property
+## License
+This project is licensed under the [GPLv3](LICENSE.md)
