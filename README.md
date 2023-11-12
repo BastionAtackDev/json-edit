@@ -1,6 +1,6 @@
-# JSON-Editor-CLI
+# json-edit 
 ## About
- Welcome to the JSON-Editor-CLI!
+ Welcome to the json-edit!
  This tool unleashes the full power of the terminal for editing JSON files
 ## Docs
     Syntax: json-edit create [fileName.json] => creates a json file containing {} 
